@@ -1,7 +1,7 @@
 # Terinfoalk2024bev
 
 1. Kalicz Péter
-2. nev
+2. Bódai Sándor
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor 
