@@ -1,6 +1,6 @@
 # Terinfoalk2024bev
 
-1. nev
+1. Kalicz Péter
 2. nev
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
