@@ -17,7 +17,7 @@
 15. nev
 16. nev
 17. nev
-18. nev
+18. nev: Szélessy Tünde
 19. nev
 20. nev
 21. nev
