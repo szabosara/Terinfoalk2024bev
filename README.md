@@ -10,6 +10,7 @@
 8. Libor Liza
 9. Nagy Kornél 
 10. nev
+11. nev
 12. Pallos Dénes
 13. Pável Armand
 14. nev
@@ -20,6 +21,7 @@
 19. Tama Zétény
 20. Vachter Patrik
 21. Vezdén Koppány
+22. nev
 23. Nádasi Bálint
 24. nev
 25. Ujpesti Krisztián
