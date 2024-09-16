@@ -3,11 +3,11 @@
 1. nev
 2. nev
 3. nev
-4. nev
+4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor 
 6. nev
 7. nev
-8. nev
+8. Libor Liza
 9. nev
 10. nev
 11. nev
@@ -22,7 +22,7 @@
 20. nev
 21. nev
 22. nev
-23. nev
+23. Nádasi Bálint
 24. nev
-25. nev
+25. Ujpesti Krisztián
 26. nev
