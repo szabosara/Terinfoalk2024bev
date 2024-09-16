@@ -20,7 +20,7 @@
 18. nev: Szélessy Tünde
 19. Tama Zétény
 20. Vachter Patrik
-21. nev
+21. Vezdén Koppány
 22. nev
 23. Nádasi Bálint
 24. nev
