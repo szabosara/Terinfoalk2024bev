@@ -18,7 +18,7 @@
 16. nev
 17. nev
 18. nev
-19. nev
+19. Tama Zétény
 20. nev
 21. nev
 22. nev
