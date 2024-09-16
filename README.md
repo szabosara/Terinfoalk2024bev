@@ -18,7 +18,7 @@
 16. nev Soós Marcell 
 17. nev
 18. nev: Szélessy Tünde
-19. nev
+19. Tama Zétény
 20. Vachter Patrik
 21. nev
 22. nev
