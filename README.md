@@ -24,5 +24,5 @@
 22. nev
 23. Nádasi Bálint
 24. nev
-25. nev
+25. Ujpesti Krisztián
 26. nev
