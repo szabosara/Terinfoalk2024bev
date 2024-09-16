@@ -2,13 +2,13 @@
 
 1. nev
 2. nev
-3. nev
+3. Erdei Dávid
 4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor 
 6. nev
 7. nev
 8. Libor Liza
-9. nev
+9. Nagy Kornél 
 10. nev
 11. nev
 12. Pallos Dénes
