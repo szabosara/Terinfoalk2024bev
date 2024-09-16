@@ -15,12 +15,11 @@
 14. nev
 15. nev
 16. nev Soós Marcell 
-17. nev
+17. Szabó Sára
 18. nev: Szélessy Tünde
 19. Tama Zétény
 20. Vachter Patrik
 21. Vezdén Koppány
-22. nev
 23. Nádasi Bálint
 24. nev
 25. Ujpesti Krisztián
