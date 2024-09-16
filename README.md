@@ -22,7 +22,7 @@
 20. nev
 21. nev
 22. nev
-23. nev
+23. Nádasi Bálint
 24. nev
 25. nev
 26. nev
