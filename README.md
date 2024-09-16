@@ -8,7 +8,7 @@
 6. nev
 7. nev
 8. nev
-9. nev
+9. Nagy Kornél
 10. nev
 11. nev
 12. nev
