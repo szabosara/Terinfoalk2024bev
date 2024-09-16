@@ -11,7 +11,7 @@
 9. nev
 10. nev
 11. nev
-12. nev
+12. Pallos Dénes
 13. nev
 14. nev
 15. nev
