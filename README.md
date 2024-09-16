@@ -12,7 +12,7 @@
 10. nev
 11. nev
 12. nev
-13. nev
+13. Pável Armand
 14. nev
 15. nev
 16. nev
@@ -26,3 +26,4 @@
 24. nev
 25. nev
 26. nev
+27. nev
