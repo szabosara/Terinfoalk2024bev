@@ -8,8 +8,8 @@
 6. nev
 7. nev
 8. nev
-9. nev
-10. nev
+9. Nagi Kornél
+  
 11. nev
 12. nev
 13. nev
@@ -26,3 +26,4 @@
 24. nev
 25. nev
 26. nev
+27. nev
