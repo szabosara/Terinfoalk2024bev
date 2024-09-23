@@ -5,7 +5,7 @@
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor 
-6. Gombos Bence János 
+6. nev
 7. nev
 8. Libor Liza
 9. Nagy Kornél 
@@ -21,7 +21,7 @@
 19. Tama Zétény
 20. Vachter Patrik
 21. Vezdén Koppány
-22. nev
+22. Gombos Bence János
 23. Nádasi Bálint
 24. nev
 25. Ujpesti Krisztián
