@@ -5,8 +5,8 @@
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor 
-6. nev
-7. Horváth Tünde
+6. Horváth Tünde
+7. Kovács Kornél
 8. Libor Liza
 9. Nagy Kornél 
 10. nev
