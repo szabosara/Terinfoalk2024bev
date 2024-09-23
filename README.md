@@ -14,7 +14,7 @@
 12. Pallos Dénes
 13. Pável Armand
 14. nev
-15. nev
+15. Poncsák Panna
 16. nev Soós Marcell 
 17. Szabó Sára
 18. nev: Szélessy Tünde
