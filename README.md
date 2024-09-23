@@ -25,5 +25,5 @@
 23. Nádasi Bálint
 24. nev
 25. Ujpesti Krisztián
-26. nev
+26. Kovács Kinga
 27. nev
