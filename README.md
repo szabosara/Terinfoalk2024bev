@@ -26,4 +26,4 @@
 24. nev
 25. Ujpesti Krisztián
 26. Kovács Kinga
-27. nev
+27. Torma Máté
