@@ -20,7 +20,7 @@
 18. nev: Szélessy Tünde
 19. Tama Zétény
 20. Vachter Patrik
-21. Vezdén Koppány
+21. Vezdén Koppány DY884R
 22. Gombos Bence János
 23. Nádasi Bálint
 24. Czakó Károly
