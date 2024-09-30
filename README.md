@@ -15,7 +15,7 @@
 13. Pável Armand
 14. nev
 15. Poncsák Panna
-16. Soós Marcell 
+16. Soós Marcell D37WVP
 17. Szabó Sára
 18. nev: Szélessy Tünde
 19. Tama Zétény
