@@ -23,7 +23,11 @@
 21. Vezdén Koppány
 22. Gombos Bence János
 23. Nádasi Bálint
+<<<<<<< HEAD
 24. Czakó Károly GYLBN9
+=======
+24. Czakó Károly
+>>>>>>> 1dd0e7a9034d5b3da7524f345d56542a62a61658
 25. Ujpesti Krisztián
 26. Kovács Kinga
 27. Torma Máté
