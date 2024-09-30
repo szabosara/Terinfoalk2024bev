@@ -17,7 +17,7 @@
 15. Poncsák Panna
 16. Soós Marcell D37WVP
 17. Szabó Sára FJWKMV
-18. nev: Szélessy Tünde
+18. nev: Szélessy Tünde /YLJHDP/
 19. Tama Zétény RV96K1
 20. Vachter Patrik
 21. Vezdén Koppány DY884R
