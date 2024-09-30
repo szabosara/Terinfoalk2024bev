@@ -12,7 +12,7 @@
 10. nev
 11. Orosz Kamilla
 12. Pallos Dénes
-13. Pável Armand
+13. Pável Armand U7GM17
 14. nev
 15. Poncsák Panna
 16. Soós Marcell 
