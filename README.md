@@ -19,11 +19,11 @@
 17. Szabó Sára FJWKMV
 18. nev: Szélessy Tünde /YLJHDP/
 19. Tama Zétény RV96K1
-20. Vachter Patrik
-21. Vezdén Koppány DY884R
-22. Gombos Bence János
-23. Nádasi Bálint
-24. Czakó Károly
-25. Ujpesti Krisztián
-26. Kovács Kinga
-27. Torma Máté
+20. Vachter Patrik S2UY2P
+22. Vezdén Koppány DY884R
+23. Gombos Bence János
+24. Nádasi Bálint
+25. Czakó Károly
+26. Ujpesti Krisztián
+27. Kovács Kinga
+28. Torma Máté
