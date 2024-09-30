@@ -18,7 +18,7 @@
 16. Soós Marcell 
 17. Szabó Sára
 18. nev: Szélessy Tünde
-19. Tama Zétény
+19. Tama Zétény RV96K1
 20. Vachter Patrik
 21. Vezdén Koppány
 22. Gombos Bence János
