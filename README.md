@@ -6,7 +6,7 @@
 4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor 
 6. Horváth Tünde
-7. Kovács Kornél
+7. Kovács Kornél MQ977C
 8. Libor Liza
 9. Nagy Kornél 
 10. nev
