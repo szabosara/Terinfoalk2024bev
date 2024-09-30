@@ -1,7 +1,7 @@
 # Terinfoalk2024bev
 
 1. Kalicz Péter Q0E04
-2. Bódai Sándor
+2. Bódai Sándor AZ7L0N
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor 
@@ -16,11 +16,11 @@
 14. nev
 15. Poncsák Panna
 16. Soós Marcell D37WVP
-17. Szabó Sára
+17. Szabó Sára FJWKMV
 18. nev: Szélessy Tünde
 19. Tama Zétény
 20. Vachter Patrik
-21. Vezdén Koppány
+21. Vezdén Koppány DY884R
 22. Gombos Bence János
 23. Nádasi Bálint
 24. Czakó Károly
