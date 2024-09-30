@@ -16,7 +16,7 @@
 14. nev
 15. Poncsák Panna
 16. Soós Marcell 
-17. Szabó Sára
+17. Szabó Sára FJWKMV
 18. nev: Szélessy Tünde
 19. Tama Zétény
 20. Vachter Patrik
