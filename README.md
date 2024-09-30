@@ -23,7 +23,7 @@
 21. Vezdén Koppány
 22. Gombos Bence János
 23. Nádasi Bálint
-24. Czakó Károly
+24. Czakó Károly GYLBN9
 25. Ujpesti Krisztián
 26. Kovács Kinga
 27. Torma Máté
