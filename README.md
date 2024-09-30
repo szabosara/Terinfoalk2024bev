@@ -1,11 +1,11 @@
 # Terinfoalk2024bev
 
-1. Kalicz Péter
+1. Kalicz Péter Q0E04
 2. Bódai Sándor
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor 
-6. nev
+6. Horváth Tünde
 7. Kovács Kornél MQ977C
 8. Libor Liza
 9. Nagy Kornél 
@@ -23,7 +23,7 @@
 21. Vezdén Koppány
 22. Gombos Bence János
 23. Nádasi Bálint
-24. nev
+24. Czakó Károly
 25. Ujpesti Krisztián
 26. Kovács Kinga
-27. nev
+27. Torma Máté
