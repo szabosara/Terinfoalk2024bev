@@ -17,7 +17,7 @@
 15. Poncsák Panna
 16. Soós Marcell 
 17. Szabó Sára
-18. nev: Szélessy Tünde
+18. nev: Szélessy Tünde /YLJHDP/
 19. Tama Zétény
 20. Vachter Patrik
 21. Vezdén Koppány
