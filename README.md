@@ -19,7 +19,7 @@
 17. nev
 18. nev
 19. nev
-20. Vachter Patrik
+20. Vachter Patrik S2UY2P
 21. nev
 22. nev
 23. nev
