@@ -3,7 +3,7 @@
 1. Kalicz Péter
 2. Bódai Sándor
 3. Erdei Dávid
-4. Fegyverneki Barnabás 
+4. Fegyverneki Barnabás SZFJEl
 5. Ferenczi Zsombor 
 6. Horváth Tünde
 7. Kovács Kornél
