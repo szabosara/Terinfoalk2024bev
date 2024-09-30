@@ -1,6 +1,6 @@
 # Terinfoalk2024bev
 
-1. Kalicz Péter Q0E04
+1. Kalicz Péter neptunkod
 2. Bódai Sándor AZ7L0N
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
