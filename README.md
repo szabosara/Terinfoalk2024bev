@@ -9,7 +9,7 @@
 7. Kovács Kornél MQ977C
 8. Libor Liza
 9. Nagy Kornél 
-10. nev
+10. Nagy Péter Márton LIVSKZ
 11. Orosz Kamilla
 12. Pallos Dénes
 13. Pável Armand U7GM17
