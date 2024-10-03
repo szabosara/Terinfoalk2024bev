@@ -4,7 +4,7 @@
 2. Bódai Sándor
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
-5. Ferenczi Zsombor 
+5. Ferenczi Zsombor HFK33W
 6. Horváth Tünde
 7. Kovács Kornél
 8. Libor Liza
