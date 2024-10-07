@@ -24,6 +24,6 @@
 23. Gombos Bence János JPWOT9
 24. Nádasi Bálint BL3CF8
 25. Czakó Károly
-26. Ujpesti Krisztián
+26. Ujpesti Krisztián FWY5L8
 27. Kovács Kinga
 28. Torma Máté
