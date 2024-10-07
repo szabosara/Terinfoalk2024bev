@@ -5,7 +5,7 @@
 3. Erdei Dávid
 4. Fegyverneki Barnabás 
 5. Ferenczi Zsombor HFK33W
-6. Horváth Tünde
+6. Horváth Tünde D55XKZ
 7. Kovács Kornél MQ977C
 8. Libor Liza
 9. Nagy Kornél 
@@ -13,7 +13,7 @@
 11. Orosz Kamilla
 12. Pallos Dénes
 13. Pável Armand U7GM17
-14. nev
+14. Pomóthy Panna
 15. Poncsák Panna
 16. Soós Marcell D37WVP
 17. Szabó Sára FJWKMV
