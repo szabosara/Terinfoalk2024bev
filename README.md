@@ -21,7 +21,7 @@
 19. Tama Zétény RV96K1
 20. Vachter Patrik S2UY2P
 22. Vezdén Koppány DY884R
-23. Gombos Bence János
+23. Gombos Bence János JPWOT9
 24. Nádasi Bálint BL3CF8
 25. Czakó Károly
 26. Ujpesti Krisztián
