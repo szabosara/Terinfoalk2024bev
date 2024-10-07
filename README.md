@@ -11,7 +11,7 @@
 9. Nagy Kornél 
 10. Nagy Péter Márton LIVSKZ
 11. Orosz Kamilla N6LAFW
-12. Pallos Dénes
+12. Pallos Dénes ECW8PK
 13. Pável Armand U7GM17
 14. Pomóthy Panna ZGJAE8
 15. Poncsák Panna
