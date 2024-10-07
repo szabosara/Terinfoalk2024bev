@@ -10,7 +10,7 @@
 8. Libor Liza
 9. Nagy Kornél 
 10. Nagy Péter Márton LIVSKZ
-11. Orosz Kamilla
+11. Orosz Kamilla N6LAFW
 12. Pallos Dénes
 13. Pável Armand U7GM17
 14. Pomóthy Panna ZGJAE8
