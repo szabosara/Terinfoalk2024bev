@@ -3,7 +3,7 @@
 1. Kalicz Péter neptunkod
 2. Bódai Sándor AZ7L0N
 3. Erdei Dávid
-4. Fegyverneki Barnabás 
+4. Fegyverneki Barnabás SZFJEl
 5. Ferenczi Zsombor HFK33W
 6. Horváth Tünde D55XKZ
 7. Kovács Kornél MQ977C
