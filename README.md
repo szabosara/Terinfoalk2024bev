@@ -13,7 +13,7 @@
 11. Orosz Kamilla
 12. Pallos Dénes
 13. Pável Armand U7GM17
-14. Pomóthy Panna
+14. Pomóthy Panna ZGJAE8
 15. Poncsák Panna
 16. Soós Marcell D37WVP
 17. Szabó Sára FJWKMV
