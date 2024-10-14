@@ -23,7 +23,7 @@
 22. Vezdén Koppány DY884R
 23. Gombos Bence János JPWOT9
 24. Nádasi Bálint BL3CF8
-25. Czakó Károly
+25. Czakó Károly GYLBN9
 26. Ujpesti Krisztián FWY5L8
 27. Kovács Kinga
 28. Torma Máté
