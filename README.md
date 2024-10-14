@@ -7,7 +7,7 @@
 5. Ferenczi Zsombor HFK33W
 6. Horváth Tünde D55XKZ
 7. Kovács Kornél MQ977C
-8. Libor Liza
+8. Libor Liza C7FCQH
 9. Nagy Kornél GZNOMR
 10. Nagy Péter Márton LIVSKZ
 11. Orosz Kamilla N6LAFW
