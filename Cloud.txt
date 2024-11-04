@@ -1,0 +1,2 @@
+Get 1 non-preemptible e2-micro VM instance, up to 30 GB storage, and up to 1 GB of outbound data transfers free per month.
+US region (us-*1) *=west, central, east
