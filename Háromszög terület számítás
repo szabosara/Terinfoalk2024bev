@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vachter Patrik</title>
+  <meta charset='UTF-8'>
+</head>
+<body>
+	<script>
+	// A háromszög alapjának megadása.
+	Alap = 7;
+	Magasság = 8
+	// A kiinduló adatok kiiratása.
+	document.write('A számítandó háromszög alapja: ', Alap, '<br>');
+	document.write('A számítandó háromszög magassága: ', Magasság, '<br>');
+	document.write('A háromszög területe: ', Alap*Magasság/2, '<br>');
+	</script>
+</body>
+</html>
