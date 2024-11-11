@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kedvezmény Kalkulátor</title>
+</head>
+<body>
+
+    
+
+    <h1>Kedvezményes ár kalkulátor</h1>
+    
+   <!-- az adatbekérő mezők létrehozása -->
+    <label for="originalPrice">Eredeti ár (Ft): </label>
+    <input type="number" id="originalPrice" placeholder="Pl. 1000" required><br><br>
+    
+    <label for="discount">Kedvezmény (%) : </label>
+    <input type="number" id="discount" placeholder="Pl. 15" required><br><br>
+    <!-- számítást indító gomb -->
+    <button onclick="calculateDiscount()">Kedvezmény számítása</button>
+
+    <p id="result"></p>
+
+    <script>
+       // függvény létrehozása
+        function calculateDiscount() {
+           
+            let originalPrice = parseFloat(document.getElementById("originalPrice").value);
+            let discount = parseFloat(document.getElementById("discount").value);
+
+           //adatbekérés ellenörzése
+            if (isNaN(originalPrice) || isNaN(discount) || originalPrice <= 0 || discount < 0 || discount > 100) {
+                document.getElementById("result").innerHTML = "Kérlek, érvényes értékeket adj meg!";
+                return; // 
+            }
+
+            // számítás
+            let discountAmount = originalPrice * (discount / 100); 
+            let finalPrice = originalPrice - discountAmount; 
+
+           //eredmény feltöltése
+            document.getElementById("result").innerHTML = 
+                "Az eredeti ár: " + originalPrice + " Ft<br>" +
+                "A kedvezmény mértéke: " + discount + "%<br>" +
+                "A kedvezményes ár: " + finalPrice.toFixed(2) + " Ft";
+        }
+    </script>
+
+</body>
+</html>

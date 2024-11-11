@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza Kerülete</title>
+</head>
+<body>
+    <h1>28 cm-es pizza kerülete</h1>
+    <p>A pizza átmérője 28 cm, tehát a sugár 14 cm.</p>
+    <p>A kerületet a következő képlettel számolhatjuk ki: K = 2 * π * r</p>
+    <p>A kerület: <strong>87.96 cm</strong></p>
+</body>
+</html>
