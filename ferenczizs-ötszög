@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ferenzi Zsombor</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <script>
+      // ötszög élhosszának megadása.
+      Élhossz = 16;
+      // A kiinduló adatk kiíratása.
+      document.write("A számítandó ötszög élhossza:", Élhossz);
+      // Sortörés
+      document.write("<br>");
+      // Eredmények kiíratása
+      document.write("A ötszög térfogata:", Élhossz*Élhossz*Élhossz);
+	  //Sortörés
+	  document.write("<br>");
+	  document.write("A ötszög kerülete:", Élhossz*5) 
+	  
+    </script>
+  </body>
+</html>

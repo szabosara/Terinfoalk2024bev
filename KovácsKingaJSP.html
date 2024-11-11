@@ -1,0 +1,42 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title>Kovács Kinga</title> 
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Téglalap terület számítása</h1>
+// cimkék és a beírás mezőinek létrehozása
+    <label for="szelesseg">Szélesség:</label>
+    <input type="number" id="szelesseg" placeholder="Írd be a szélességet">
+    
+    <label for="magassag">Magasság:</label>
+    <input type="number" id="magassag" placeholder="Írd be a magasságot">
+    // gomb létrehozása, függvény használata
+    <button onclick="szamitsTerulet()">Számít</button>
+
+    <p id="eredmeny">A téglalap területe: </p>
+
+    <script>
+      // A függvény, amely kiszámítja a téglalap területét
+      function terulet(szelesseg, magassag) {
+	  // terület számítás a fügvénnyel
+        return szelesseg * magassag;
+      }
+
+      // Függvény a számítás eredményének megjelenítésére
+      function szamitsTerulet() {
+        let szelesseg = document.getElementById("szelesseg").value;
+        let magassag = document.getElementById("magassag").value;
+     // ellenőrzi, hogy van-e érték beírva   
+        if (szelesseg && magassag) {
+          let ter = terulet(szelesseg, magassag);
+          document.getElementById("eredmeny").innerText = "A téglalap területe: " + ter;
+        } else {
+          document.getElementById("eredmeny").innerText = "Kérjük, adja meg mindkét értéket!";
+        }
+      }
+    </script>
+  </body>
+</html>
+
