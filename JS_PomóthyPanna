@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pomóthy Panna</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <script>
+      // téglatest élhosszának megadása.
+	  // A oldal élhossz
+      var A = 25;
+	  // B oldal élhossz
+	  var B = 32;
+	  //C oldal élhossz
+	  var C = 18;
+      // A kiinduló adatok kiíratása.
+      document.write("A számítandó téglatest élhosszai:",A,"és",B,"és",C);
+      // Sortörés
+      document.write("<br>");
+      // Eredmények kiíratása
+      document.write("A téglatest térfogata:", A*B*C);
+    </script>
+  </body>
+</html>

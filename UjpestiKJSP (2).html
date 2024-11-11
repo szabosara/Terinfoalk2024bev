@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ujpesti Krisztian - Földterület Számítása</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+// cim megadasa
+    <h1>Földterület Számítása - ChatGPT segitsegevel</h1>
+    <p>Adja meg a földterület hosszát és szélességét méterben:</p>
+// mezok hozzaadasa, ahova irni kell az adatokat,azt is mondja milyen mertekegysegben
+    <label for="length">Hossz (méterben):</label>
+    <input type="number" id="length" placeholder="Hossz méterben"><br><br>
+
+    <label for="width">Szélesség (méterben):</label>
+    <input type="number" id="width" placeholder="Szélesség méterben"><br><br>
+// szamitas gomb hozzaadasa
+    <button onclick="calculateLandArea()">Számítás</button>
+
+    <p id="result"></p>
+
+    <script>
+      function calcLandArea(length, width) {
+          // A területet négyzetméterben számoljuk ki
+          let areaInSquareMeters = length * width;
+// ez szukseges az atvaltashoz     
+          // 1 hektár = 10,000 négyzetméter
+          let areaInHectares = areaInSquareMeters / 10000;
+          
+          return areaInHectares;
+      }
+//ezzel fogja beolvasni es kiszamitani
+      function calculateLandArea() {
+          // Felhasználói adatok beolvasása
+          let length = parseFloat(document.getElementById("length").value);
+          let width = parseFloat(document.getElementById("width").value)
+//leelenorzi hogy az adatok helyesek e, amit megadtal
+          // Ellenőrizzük, hogy a hossz és szélesség érvényes szám-e
+          if (isNaN(length) || isNaN(width) || length <= 0 || width <= 0) {
+              document.getElementById("result").innerText = "Kérem, adjon meg érvényes hossz- és szélesség értéket!";
+              return;
+          }
+          
+          // Terület kiszámítása
+          let area = calcLandArea(length, width);
+//eredmeny kiirasa         
+          // Eredmény megjelenítése két tizedesjegyre kerekítve
+          document.getElementById("result").innerText = "A földterület nagysága: " + area.toFixed(2) + " hektár";
+      }
+    </script>
+  </body>
+</html>
