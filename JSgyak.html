@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tama Zétény</title>
+<meta charset="UTF-8">
+<style>body {background-color:green;color:red;}</style>
+</head>
+<body>
+
+<h1 id="demo"></h1>
+
+<script>
+const d = new Date(); //dátum konstans létrehozása
+var time = d.getTime(); //jelenlegi időpont megkérdezése
+var kriszmasz = 1735081200000; //legközelebbi karácsony időpontja
+var k = kriszmasz - time; //két időpont közötti különbség (k, mint különbség)
+var nap = Math.floor(k / 86400000); //napok száma
+k = k - nap * 86400000; //napok levonása a különbségből
+var ora = Math.floor(k / 3600000); //órák száma
+k = k - ora * 3600000;
+var perc = Math.floor(k / 60000); //percek száma
+k = k - perc * 60000;
+var masodperc = Math.floor(k / 1000); //masodpercek száma
+//var text = time + '<br>' + kriszmasz;
+var text = 'Karácsonyig hátralévő idő: ' + nap + ' nap, ' + ora + ' óra, ' + perc + ' perc, ' + masodperc + ' masodperc.'; //szöveg összefűzése
+document.getElementById("demo").innerHTML = text; //kiíratás
+</script>
+
+</body>
+</html>
