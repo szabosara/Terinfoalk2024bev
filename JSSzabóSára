@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kör Kerület Kiszámítása</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #result {
+            font-size: 1.2em;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kör Kerületének Kiszámítása</h1>
+    <p>A kör átmérője 20 cm. Az alábbi számítás segítségével kiszámítjuk a kör kerületét:</p>
+    <button onclick="calculateCircumference()">Kiszámít</button>
+    <div id="result"></div>
+
+    <script>
+        function calculateCircumference() {
+            const diameter = 20;  // átmérő: 20 cm
+            const radius = diameter / 2;  // sugár: átmérő fele
+            const circumference = 2 * Math.PI * radius;  // kerület képlete
+            
+            document.getElementById('result').innerHTML = 
+                `A kör kerülete: ${circumference.toFixed(2)} cm`;
+        }
+    </script>
+</body>
+</html>
