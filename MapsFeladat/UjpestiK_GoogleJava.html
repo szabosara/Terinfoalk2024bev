@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Maps</title>
+    <style>
+        #map {
+            height: 400px; /* Térkép magassága */
+            width: 100%;  /* Térkép szélessége */
+        }
+    </style>
+</head>
+<body>
+    <h1>Google Maps Ujpesti Krisztian</h1>
+    <div id="map"></div>
+
+    <!-- Google Maps JavaScript API betöltése -->
+    <script>
+        function initMap() {
+            // Alapértelmezett helyszín (Budapest)
+            const location = { lat: 47.4979, lng: 19.0402 };
+
+            // Térkép létrehozása
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 10,
+                center: location,
+            });
+
+            // Marker hozzáadása
+            const marker = new google.maps.Marker({
+                position: location,
+                map: map,
+            });
+        }
+    </script>
+    <script async
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCk2v8WtXB57rTW6EH9xFkYxk88u02Xrx4&callback=initMap">
+    </script>
+</body>
+</html>
