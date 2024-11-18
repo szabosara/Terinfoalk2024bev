@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gombos Bence János</title>
+    <style>
+        /* Black background and red text */
+        body {
+            background-color: black;  /* Black background */
+            color: red;  /* Red text */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1, h2, h3, p, ul {
+            color: red;  /* Red color for headings and paragraphs */
+        }
+
+        a {
+            color: red;  /* Red color for links */
+            text-decoration: none;  /* Remove underline from links */
+        }
+
+        a:hover {
+            text-decoration: underline;  /* Add underline when hovered */
+        }
+
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<script>
+    // Function to create and append an element with specific tag and text content
+    function createElement(tag, content) {
+        const element = document.createElement(tag);
+        element.textContent = content;
+        document.body.appendChild(element);
+    }
+
+    // Function to create and append a link with href
+    function createLink(href, text) {
+        const link = document.createElement('a');
+        link.href = href;
+        link.textContent = text;
+        document.body.appendChild(link);
+    }
+
+    // Creating elements using JavaScript
+    createElement('h1', 'Nem tudni');
+    createElement('p', 'Még nem döntöttem el');
+    createElement('h2', 'Nincs még döntés');
+    createElement('p', '2024');
+    createElement('h1', 'Nincs újság');
+
+    // Create a list
+    const ul = document.createElement('ul');
+    const li1 = document.createElement('li');
+    li1.textContent = 'Kezd alakulni';
+    ul.appendChild(li1);
+    const li2 = document.createElement('li');
+    li2.textContent = 'Nem sokára talán';
+    ul.appendChild(li2);
+    document.body.appendChild(ul);
+
+    createElement('h3', 'Itt lesz');
+
+    // Create a link for the "Link"
+    createLink('https://whatphilsees.co.uk/products/i-dont-know-doing-edition?variant=40656672096299', 'Link');
+
+    createElement('h3', 'További információ');
+
+    // Create another link for "Google Search Link"
+    createLink('https://www.google.com/search?sca_esv=3830138d5daf0584&rlz=1C1YTUH_huHU1016HR1016&sxsrf=ADLYWILTTsc6UWdu9rNf1VQRAaHkZOnV1g:1729512724076&q=all+knowing&udm=2&fbs=AEQNm0CRjlOtE433-CvsDZEksQ8zUchZAntv9lLo-e4ZT42ratBCI50jVD5EdzCOdux47zeiB6ovlrZ7ln5v-PWVI1zt7FBdXJAwlCfwWQFvMAd7Cu8USZ4Sm7rnyHK4BxQSOx3s26nNW2x5jFoGdFQSDqH4iS662KxsUgXX1YQt8Q2gHelXM7M&sa=X&ved=2ahUKEwip7rX8uJ-JAxWl-LsIHY5hBngQtKgLegQIEhAB&biw=1707&bih=781&dpr=1.13', 'Google Search Link');
+
+    createElement('h3', 'Traktorok képek');
+
+    // Create a link for "Traktorok képek Bing keresése"
+    createLink('https://www.bing.com/images/search?q=traktorok&qs=n&form=QBIR&sp=-1&lq=0&pq=traktorok&sc=9-9&cvid=EB1346FAC9C34D30856647200BDE9BAB&ghsh=0&ghacc=0&first=1', 'Traktorok képek Bing keresése');
+</script>
+
+</body>
+</html>
