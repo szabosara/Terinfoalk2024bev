@@ -38,5 +38,29 @@
 
     <!-- A Google Maps API beágyazása a megfelelő API kulccsal -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCk2v8WtXB57rTW6EH9xFkYxk88u02Xrx4&callback=initMap&v=weekly" async defer></script>
+ <script>
+        // A Budapesti Országház koordinátái
+        function initMap() {
+            const location = { lat: 47.5079, lng: 19.0450 };  // Az Országház pontos helye
+
+            // A térkép beállításai nagyítás/kicsinyítés letiltásával
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 16,
+                center: location,
+                gestureHandling: "none", // Tiltsa le a görgetést és ujjgesztusokat
+                zoomControl: false       // Tiltsa le a nagyítási és kicsinyítési gombokat
+            });
+
+            // A marker (jelölő) hozzáadása a térképre
+            const marker = new google.maps.Marker({
+                position: location,
+                map: map,
+                title: "Országház, Budapest"
+            });
+        }
+    </script>
+
+    <!-- A Google Maps API beágyazása a megfelelő API kulccsal -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCk2v8WtXB57rTW6EH9xFkYxk88u02Xrx4&callback=initMap&v=weekly" async defer></script>
 </body>
 </html>
